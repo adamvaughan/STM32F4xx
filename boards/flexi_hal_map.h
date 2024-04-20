@@ -126,7 +126,7 @@
 #endif
 #endif
 
-// Define ganged axis or A axis step pulse and step direction output pins.
+// Define ganged axis or B axis step pulse and step direction output pins.
 #if N_ABC_MOTORS == 2
 #define M4_AVAILABLE
 #define M4_STEP_PORT            GPIOB
